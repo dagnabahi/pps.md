@@ -143,7 +143,7 @@ return 0;
 }
 ```
 
-
+```c
 #include<stdio.h>
 int main()
 {
@@ -155,7 +155,8 @@ printf("no is even");
 else printf("no is odd");
 return 0;
 }
-
+```c
+```
 
 
 #include<stdio.h>
@@ -173,7 +174,8 @@ printf("factorial is %d\n",b);
 return 0;
 }
 
-
+```c
+```
 
 
 #include<stdio.h>
@@ -194,7 +196,8 @@ b=c;
 return 0;
 }
 
-
+```c
+```
 
 
 
@@ -215,7 +218,8 @@ printf("fibonacci is %d\n",fib(n));
 getchar();
 return 0;
 }
-
+```c
+```
 
 #include<stdio.h>
 int main()
@@ -239,7 +243,8 @@ return 0;
 }
 
 
-
+```c
+```
 
 
 
@@ -260,7 +265,8 @@ return 0;
 
 
 
-
+```c
+```
 
 #include<stdio.h>
 
@@ -297,7 +303,8 @@ return 0;
 }
 
 
-
+```c
+```
 
 
 #include<stdio.h>
@@ -324,7 +331,8 @@ return 0;
 } 
 
 
-
+```c
+```
 
 #include<stdio.h>
 int main()
@@ -347,7 +355,8 @@ int main()
  
  
  
- 
+ ```c
+```
  
  #include<stdio.h>
 int main()
@@ -369,7 +378,8 @@ printf("no");
 return 0; }
 
 
-
+```c
+```
 
 #include<stdio.h>
 int main()
@@ -394,7 +404,8 @@ return 0;
 
 
 
-
+```c
+```
 
 
 
@@ -420,7 +431,8 @@ printf("root2 is %.3f \n",(-b- sqrt(d))/2*a);
 }
 return 0;
 }
-
+```c
+```
 
 
 
@@ -442,7 +454,8 @@ return 0; }
 
 
 
-
+```c
+```
 
 #include<stdio.h>
 int sqr(int n)
@@ -455,7 +468,8 @@ scanf("%d",&n);
 printf("square is %d\n",sqr(n));
 return 0;
 }
-
+```c
+```
 
 
 
@@ -472,7 +486,8 @@ return 0;
 }
 
 
-
+```c
+```
 
 
 
@@ -505,7 +520,8 @@ return 0;
 
 
 
-
+```c
+```
 
 
 #include<stdio.h>
@@ -524,7 +540,8 @@ return 0;
 
 
 
-
+```c
+```
 
 
 
@@ -554,7 +571,8 @@ void swap(int n1,int n2)
 
 
 
-
+```c
+```
 
 #include <stdio.h>
 void swap(int*, int*);
@@ -576,7 +594,8 @@ void swap(int *a, int *b)
    *a = temp;
 }
 
-
+```c
+```
 
 
 
@@ -598,7 +617,8 @@ return 0;
 
 
 
-
+```c
+```
 
 
 
@@ -637,6 +657,4 @@ return 0;
 
 
 
-
-
-
+```
