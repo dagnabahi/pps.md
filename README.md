@@ -658,3 +658,32 @@ return 0;
 
 
 ```
+```c
+
+
+
+#include<stdio.h>
+void main()
+{
+puts("belcome to budding engineers! to gne collage ludhiana");
+}
+
+```
+
+
+
+```c
+
+#include<stdio.h>
+int main ()
+{
+float b,c;
+printf("enter temperature in C\n");
+scanf("%f", &c );
+b=9/5.0*c+32;
+printf("%.01f \n",b);
+return 0;
+}
+
+
+```
