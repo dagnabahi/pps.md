@@ -43,7 +43,7 @@ int main()
 ```
 
 
-
+```c
 #include<stdio.h>
 void main()
 {
@@ -61,8 +61,8 @@ a=22/7.0*d*d/4;
 printf("peremeter is %.1f \narea is %.1f \nof circle with diameter %.1f",p,a,d);
 
 }
-
-
+```
+```c
 #include<stdio.h>
 
 int main()
@@ -91,8 +91,8 @@ count++;
 printf(" no of students who score marks greater than class average are %d\n",count);
 return 0;
 }
-
-
+```
+```c
 #include<stdio.h>
 int main()
 {
@@ -114,8 +114,8 @@ int main()
  }
  return 0;
 }
-
-
+```
+```c
 #include<stdio.h>
 
 struct record
@@ -141,7 +141,7 @@ for(i=1;i<6;i++)
 }
 return 0;
 }
-
+```
 
 
 #include<stdio.h>
