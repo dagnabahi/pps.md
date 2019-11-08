@@ -1,11 +1,10 @@
 practical file (PPS)
 
+submissio to - HSK (HARDEEP SINGH) SIR
 
 NAME - PRABHJOT SINGH
 CLASS - CSE-A2
 ROLL No - 1915058
-
-
 
 
 
