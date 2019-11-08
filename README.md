@@ -1,6 +1,6 @@
 practical file (PPS)
 
-submissio to - HSK SIR
+submissio to -   HARDEEP SINGH SIR
 
 **NAME - PRABHJOT SINGH
       , CLASS - CSE-A2
