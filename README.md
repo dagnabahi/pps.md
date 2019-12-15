@@ -10,6 +10,8 @@ submissio to -   HARDEEP SINGH SIR
 
 
 ```c
+**   sum of matrix   **
+
 #include <stdio.h>
 int main()
 {
@@ -58,6 +60,8 @@ output = Sum of entered matrices:-
 
 
 ```c
+**  puts    **
+
 #include<stdio.h>
 void main()
 {
@@ -72,6 +76,7 @@ ludhiana 141006
 india
 ```
 ```c
+**  area of circle    **
 
 #include<stdio.h>
 int main()
@@ -90,6 +95,8 @@ output - peremeter is 6.3
          of circle with diameter 2.0
 ```
 ```c
+**score of student **
+
 #include<stdio.h>
 
 int main()
