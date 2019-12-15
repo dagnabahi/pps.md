@@ -10,7 +10,7 @@ submissio to -   HARDEEP SINGH SIR
 
 
 ```c
-**   sum of matrix   **
+   sum of matrix   
 
 #include <stdio.h>
 int main()
@@ -60,7 +60,7 @@ output = Sum of entered matrices:-
 
 
 ```c
-**  puts    **
+  use of puts    
 
 #include<stdio.h>
 void main()
@@ -76,14 +76,14 @@ ludhiana 141006
 india
 ```
 ```c
-**  area of circle    **
+  area of circle    
 
 #include<stdio.h>
 int main()
 {
 float d,a,p;
 printf("enter diameter\n");
-scanf("%f", &d);
+scanf("%f", &d)
 p=22/7.0*d;
 a=22/7.0*d*d/4;
 printf("peremeter is %.1f \narea is %.1f \nof circle with diameter %.1f",p,a,d);
@@ -95,7 +95,7 @@ output - peremeter is 6.3
          of circle with diameter 2.0
 ```
 ```c
-**score of student **
+score of student 
 
 #include<stdio.h>
 
