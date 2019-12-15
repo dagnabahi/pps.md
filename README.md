@@ -48,6 +48,14 @@ void main()
 {
 puts("principal\npanth pattan shiri gurucharan singh tohra complex \nguru nanak dev engineering collage \ngill park \nludhiana 141006 \nindia\n");
 }
+output - principal 
+panth pattan shiri gurucharan singh tohra complex 
+guru nanak dev engineering collage 
+gill park 
+ludhiana 141006 
+india
+```
+```c
 
 #include<stdio.h>
 int main()
@@ -60,6 +68,10 @@ a=22/7.0*d*d/4;
 printf("peremeter is %.1f \narea is %.1f \nof circle with diameter %.1f",p,a,d);
 
 }
+input - 2
+output - peremeter is 6.3 
+         area is 3.1 
+         of circle with diameter 2.0
 ```
 ```c
 #include<stdio.h>
@@ -154,6 +166,8 @@ printf("no is even");
 else printf("no is odd");
 return 0;
 }
+input 2
+output - no is even
 ```
 ```c
 
@@ -172,7 +186,8 @@ a=a-1;
 printf("factorial is %d\n",b);
 return 0;
 }
-
+input - 4
+output - 24
 ```
 ```c
 
@@ -194,7 +209,8 @@ b=c;
 }
 return 0;
 }
-
+input= 1
+output= 0     1       1       2  
 ```
 ```c
 
@@ -217,6 +233,8 @@ printf("fibonacci is %d\n",fib(n));
 getchar();
 return 0;
 }
+input =
+output=
 ```
 ```c
 
@@ -240,7 +258,8 @@ printf("max valued element is %d \n, max");
 return 0;
 
 }
-
+input =
+output=
 
 ```
 ```c
@@ -261,7 +280,8 @@ else
 printf(" not a leap year\n");
 return 0;
 }
-
+input =
+output=
 
 
 ```
@@ -301,7 +321,8 @@ for(i=0;i<3;i++)
 return 0;
 }
 
-
+input =
+output=
 ```
 ```c
 
@@ -328,7 +349,8 @@ int i;
   printf("max of the array %d",max);
 return 0;
 } 
-
+input =
+output=
 
 ```
 ```c
@@ -351,7 +373,8 @@ int main()
  printf("max is %d",max);
  return 0;
 }
- 
+ input =
+output=
  
  
  ```
@@ -375,7 +398,8 @@ printf("yes");
 else
 printf("no");
 return 0; }
-
+input =
+output=
 
 ```
 ```c
@@ -400,7 +424,8 @@ else
 printf("non  prime\n");
 return 0;
 }
-
+input =
+output=
 
 
 ```
@@ -432,7 +457,8 @@ return 0;
 }
 ```
 ```c
-
+input =
+output=
 
 
 
@@ -452,6 +478,8 @@ printf("reverse no is %d\n",r);
 return 0; }
 
 
+input =
+output=
 
 ```
 ```c
@@ -470,7 +498,8 @@ return 0;
 ```
 ```c
 
-
+input =
+output=
 
 #include<stdio.h>
 int main()
@@ -484,6 +513,8 @@ printf("%d",c);
 return 0;
 }
 
+input =
+output=
 
 ```
 ```c
@@ -517,7 +548,8 @@ break;
 return 0;
 }
 
-
+input =
+output=
 
 ```
 ```c
@@ -537,7 +569,8 @@ printf("swaped no's are %d %d \n",a,b);
 return 0;
 }
 
-
+input =
+output=
 
 ```
 ```c
@@ -567,7 +600,8 @@ void swap(int n1,int n2)
 }
 
 
-
+input =
+output=
 
 
 ```
@@ -596,6 +630,8 @@ void swap(int *a, int *b)
 ```
 ```c
 
+input =
+output=
 
 
 
@@ -613,7 +649,8 @@ return 0;
 }
 
 
-
+input =
+output=
 
 
 ```
@@ -653,7 +690,8 @@ printf("\n");
 return 0;
 }
 
-
+input =
+output=
 
 
 ```
@@ -667,8 +705,9 @@ void main()
 puts("belcome to budding engineers! to gne collage ludhiana");
 }
 
+input =
+output=
 ```
-
 
 
 ```c
@@ -684,5 +723,6 @@ printf("%.01f \n",b);
 return 0;
 }
 
-
+input =
+output=
 ```
