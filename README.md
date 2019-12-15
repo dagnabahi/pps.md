@@ -39,6 +39,21 @@ int main()
         }
        return 0;
 }
+input = nter the number of rows and columns of matrix
+3 3                                                                                                 
+Enter the elements of first matrix
+ 1 1 1
+1 1 1
+1 1 1
+Enter the elements of second matrix
+2 2 2
+2 2 2
+2 2 2
+
+output = Sum of entered matrices:-
+3       3       3
+3       3       3
+3       3       3
 ```
 
 
@@ -48,6 +63,7 @@ void main()
 {
 puts("principal\npanth pattan shiri gurucharan singh tohra complex \nguru nanak dev engineering collage \ngill park \nludhiana 141006 \nindia\n");
 }
+input -
 output - principal 
 panth pattan shiri gurucharan singh tohra complex 
 guru nanak dev engineering collage 
@@ -88,7 +104,7 @@ for(i=0;i<10;i++)
 { if(max<a[i])
   max=a[i];
 }
-printf("maximum score of student is %d \n",max);
+printf("maximum score of student is %d \n",max);=
 for(i=0;i<10;i++)
 sum=sum+a[i];
 sum=sum/10;
@@ -102,6 +118,14 @@ count++;
 printf(" no of students who score marks greater than class average are %d\n",count);
 return 0;
 }
+
+Enter the score of 10 students :
+input = 10 9 8 7 6 5 6 7 8 9
+
+output=
+maximum score of student is 10 
+average score of students is 7.500000
+ no of students who score marks greater than class average are 5
 ```
 ```c
 #include<stdio.h>
@@ -209,7 +233,7 @@ b=c;
 }
 return 0;
 }
-input= 1
+input= 4
 output= 0     1       1       2  
 ```
 ```c
@@ -233,8 +257,8 @@ printf("fibonacci is %d\n",fib(n));
 getchar();
 return 0;
 }
-input =
-output=
+input =4
+output=2
 ```
 ```c
 
@@ -258,8 +282,8 @@ printf("max valued element is %d \n, max");
 return 0;
 
 }
-input =
-output=
+input = 1 2 3 4 5
+output= 5
 
 ```
 ```c
@@ -280,8 +304,8 @@ else
 printf(" not a leap year\n");
 return 0;
 }
-input =
-output=
+input = 2019
+output= not a leap year
 
 
 ```
@@ -322,7 +346,18 @@ return 0;
 }
 
 input =
+1 2 3
+3 4 5
+5 6 7
+
+ 1 1 1
+1 1 1
+1 1 1
 output=
+matrix a * b = 
+6       6       6
+12      12      12
+18      18      18
 ```
 ```c
 
@@ -349,8 +384,8 @@ int i;
   printf("max of the array %d",max);
 return 0;
 } 
-input =
-output=
+input = 1 2 3 
+output= 3
 
 ```
 ```c
@@ -373,8 +408,8 @@ int main()
  printf("max is %d",max);
  return 0;
 }
- input =
-output=
+ input = 1 2 3 4 5
+output= 5
  
  
  ```
@@ -398,8 +433,9 @@ printf("yes");
 else
 printf("no");
 return 0; }
-input =
-output=
+
+input = 121
+output=yes
 
 ```
 ```c
@@ -424,8 +460,8 @@ else
 printf("non  prime\n");
 return 0;
 }
-input =
-output=
+input = 2
+output= prime
 
 
 ```
@@ -457,8 +493,8 @@ return 0;
 }
 ```
 ```c
-input =
-output=
+input = 1 -4 4
+output= 2 2
 
 
 
@@ -478,8 +514,8 @@ printf("reverse no is %d\n",r);
 return 0; }
 
 
-input =
-output=
+input =123
+output=321
 
 ```
 ```c
@@ -498,8 +534,8 @@ return 0;
 ```
 ```c
 
-input =
-output=
+input = 2
+output= 4
 
 #include<stdio.h>
 int main()
@@ -513,8 +549,8 @@ printf("%d",c);
 return 0;
 }
 
-input =
-output=
+input = 1 2
+output=3
 
 ```
 ```c
@@ -548,8 +584,8 @@ break;
 return 0;
 }
 
-input =
-output=
+input = s
+output= saturday
 
 ```
 ```c
@@ -569,8 +605,8 @@ printf("swaped no's are %d %d \n",a,b);
 return 0;
 }
 
-input =
-output=
+input = 1 2
+output= 2 1
 
 ```
 ```c
@@ -600,8 +636,8 @@ void swap(int n1,int n2)
 }
 
 
-input =
-output=
+input = 3 4
+output= 4 3
 
 
 ```
@@ -630,8 +666,8 @@ void swap(int *a, int *b)
 ```
 ```c
 
-input =
-output=
+input = 5 6
+output= 6 5
 
 
 
@@ -649,9 +685,18 @@ return 0;
 }
 
 
-input =
+input = 5
 output=
-
+5 * 1 = 5
+5 * 2 = 10
+5 * 3 = 15
+5 * 4 = 20
+5 * 5 = 25
+5 * 6 = 30
+5 * 7 = 35
+5 * 8 = 40
+5 * 9 = 45
+5 * 10 = 50
 
 ```
 ```c
@@ -691,7 +736,13 @@ return 0;
 }
 
 input =
+1 1 1
+2 2 2
+3 3 3
 output=
+1 2 3
+1 2 3
+1 2 3
 
 
 ```
@@ -706,7 +757,7 @@ puts("belcome to budding engineers! to gne collage ludhiana");
 }
 
 input =
-output=
+output= belcome to budding engineers! to gne collage ludhiana
 ```
 
 
@@ -723,6 +774,6 @@ printf("%.01f \n",b);
 return 0;
 }
 
-input =
-output=
+input = 0
+output= 32
 ```
